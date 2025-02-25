@@ -10,7 +10,7 @@
 - 🎓 Currently studying **Frontend Web Development** and **Backend with Java**
 - 🚀 Passionate about coding and building web applications
 - 💡 Exploring **Java Backend Development** and improving my problem-solving skills
-- 🎯 My goal: Become a **Backend Developer** in the future
+- 🎯 My goal: Become a **Java Fullstack Developer** in the future
 - 📖 Learning **Data Structures & Algorithms** to enhance my coding efficiency
 - 🏆 Interested in competitive programming and open-source contributions
 - 🎨 Also learning UI/UX design principles for better frontend development
