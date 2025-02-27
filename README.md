@@ -13,7 +13,6 @@
 - 🎯 My goal: Become a **Java Fullstack Developer** in the future
 - 📖 Learning **Data Structures & Algorithms** to enhance my coding efficiency
 - 🏆 Interested in competitive programming and open-source contributions
-- 🎨 Also learning UI/UX design principles for better frontend development
 
 ## 🛠️ Technologies & Tools
 
