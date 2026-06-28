@@ -45,10 +45,8 @@
 </p>
 
 ## 📚 Currently Learning
-- 🚀 Advanced Java, Spring, Spring Boot, and microservice
+- 🚀 Advanced Java, Spring, Spring Boot, microservice, and ReactJS
 - 📈 System Design and Scalable Architecture
-- 🛠️ DevOps Tools (Docker, Kubernetes, CI/CD)
-- ☁️ Cloud Technologies (AWS, Google Cloud)
 
 ## 📫 Connect with Me
 <p>
